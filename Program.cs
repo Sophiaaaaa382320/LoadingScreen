@@ -1,5 +1,5 @@
 ﻿int totalsteps = 100;
-for(int a=1; a <= 100; a++)
+for(int a=1; a <= totalsteps; a++)
 {
 
     Console.WriteLine($"Loading.. Step {a} of {totalsteps}");
